@@ -1,0 +1,4 @@
+cd C:\Users\asus\Desktop\CreativeCommons\youtube project01
+conda activate youtubeproject101
+conda deactivate
+jupyter notebook
